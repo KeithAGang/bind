@@ -1,0 +1,11 @@
+.{
+    .name = "bind",
+    .version = "0.1.0",
+    .dependencies = .{
+        .webview = .{
+            .url = "https://github.com/thechampagne/webview-zig/archive/refs/heads/main.tar.gz",
+            .hash = "12203799e4ba03b8172054f6cff63d832c8de98a03b59dd73d4bcea3ad66c7328d23",
+        },
+    },
+    .paths = .{""},
+}
