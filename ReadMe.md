@@ -1,4 +1,4 @@
-# My Modification of the [webview/webview](https://github.com/webview/webview) Zig Library
+# My Modification of the [webview/webview](https://github.com/webview/webview) Zig Library `bind` example.
 
 ---
 
